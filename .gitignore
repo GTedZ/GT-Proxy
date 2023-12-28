@@ -1,3 +1,6 @@
+# lnk
+*.lnk
+
 # Logs
 logs
 *.log
